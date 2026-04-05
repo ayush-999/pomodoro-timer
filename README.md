@@ -7,8 +7,7 @@
 
 A modern, feature-rich **Pomodoro Timer** with a retro-futuristic, cyberpunk-inspired design. Boost your productivity with customizable work sessions, break intervals, task management, and beautiful visual feedback.
 
-[Live Demo](#getting-started) • [Features](#features) • [Installation](#installation) • [Usage](#usage) • [Contributing](#contributing)
-
+[Live Demo](#getting-started)
 </div>
 
 ---
