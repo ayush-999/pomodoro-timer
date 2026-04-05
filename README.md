@@ -107,26 +107,12 @@ Whether you're a student, developer, designer, or anyone looking to improve thei
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/focuscraft-pomodoro-timer.git
-   cd focuscraft-pomodoro-timer
+   git clone https://github.com/ayush-999/pomodoro-timer.git
+   cd fpomodoro-timer
    ```
 
 2. **Open in browser**
    - Simply open `index.html` in your web browser, or
-   - Serve with a local server (recommended):
-     ```bash
-     # Using Python 3
-     python -m http.server 8000
-     
-     # Using Python 2
-     python -m SimpleHTTPServer 8000
-     
-     # Using Node.js (with http-server package)
-     npx http-server
-     ```
-
-3. **Access the application**
-   - Visit `http://localhost:8000` (or your server's URL)
 
 ---
 
