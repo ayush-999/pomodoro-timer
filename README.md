@@ -7,7 +7,7 @@
 
 A modern, feature-rich **Pomodoro Timer** with a retro-futuristic, cyberpunk-inspired design. Boost your productivity with customizable work sessions, break intervals, task management, and beautiful visual feedback.
 
-[Live Demo](#getting-started)
+[Live Demo](https://ayush-999.github.io/pomodoro-timer)
 </div>
 
 ---
@@ -310,7 +310,7 @@ Contributions are welcome! If you'd like to improve FOCUSCRAFT:
 
 **Ayush Chaturvedi**
 - GitHub: [@ayush-999](https://github.com/ayush-999)
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+<!-- - Portfolio: [yourwebsite.com](https://yourwebsite.com) -->
 
 ---
 
