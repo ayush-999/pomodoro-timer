@@ -308,7 +308,7 @@ Contributions are welcome! If you'd like to improve FOCUSCRAFT:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Ayush Chaturvedi**
 - GitHub: [@ayush-999](https://github.com/ayush-999)
 - Portfolio: [yourwebsite.com](https://yourwebsite.com)
 
