@@ -272,7 +272,7 @@ Contributions are welcome! If you'd like to improve FOCUSCRAFT:
 
 1. **Fork the repository**
    ```bash
-   git clone https://github.com/ayush-999/focuscraft-pomodoro-timer.git
+   git clone https://github.com/ayush-999/pomodoro-timer.git
    ```
 
 2. **Create a feature branch**
